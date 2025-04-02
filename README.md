@@ -1,5 +1,5 @@
 # Multivariate-QQ-Plot-using-OT
-Overview
+## Overview
 
 This repository provides a function to generate QQ plots and potential plots for multivariate samples. The function is designed specifically for multivariate data and will not work for univariate samples. If your samples are univariate, the methodology coincides with the usual QQ plot.
 
