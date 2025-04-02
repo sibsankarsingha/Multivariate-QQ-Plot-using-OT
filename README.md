@@ -34,10 +34,3 @@ The size of x and y must be the same. A future update will extend support for sa
 Before running this code, you need to install the required dependency POT (Python Optimal Transport). You can install it using pip:
 
 `pip install POT`
-
-Then, clone this repository and navigate to its directory:
-
-Clone this repository and ensure you have the necessary dependencies installed.
-
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
